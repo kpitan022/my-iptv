@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U   player-buffer="30"
 #EXTINF:-1,002 Guatevision
 http://186.189.222.205:1993/play/002/index.m3u8
 #EXTINF:-1,003 Canal 3
