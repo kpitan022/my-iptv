@@ -1,23 +1,24 @@
-#EXTINF:-1,TV Publica
+#EXTM3U
+#EXTINF:-1, player-buffer="30" TV Publica
 http://cdn.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
 http://edge1.stg.cvattv.com.ar/live/live2/Canal7/SA_Live_fta/index.m3u8
 varias calidades
-#EXTINF:-1,Claro Sports1
+#EXTINF:-1, player-buffer="30" Claro Sports1
 https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8
 http://iptvhd.club:8443/televall2021/154_.m3u8?
 token=5U0hga0zNrsoZToJukk1kw&expires=1629840349 ======
 http://blackghost.live/play/futvall-833.php?id=clarosports&f=.m3u8
 variascalidades
-#EXTINF:-1,Claro Sports2
+#EXTINF:-1, player-buffer="30" Claro Sports2
 https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
 variascalidades
-#EXTINF:-1,Claro Sports3
+#EXTINF:-1, player-buffer="30" Claro Sports3
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 variascalidades
-#EXTINF:-1,Claro Sports4
+#EXTINF:-1, player-buffer="30" Claro Sports4
 https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
 variascalidades
-#EXTINF:-1,Afizzionados-america-mx
+#EXTINF:-1, player-buffer="30" Afizzionados-america-mx
 http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 1280*720
 #EXTINF:-1 group-title="Lista 14",TYC SPORTS | HD
@@ -25,65 +26,65 @@ http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
 http://195.181.163.39:80/ARG-TYCSPORTS/index.m3u8
 #EXTINF:-1 group-title="Lista 14",ESPN1 MX | HD
 http://195.181.163.39:80/DEP_Espn_HD/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="ESPN1 SUR"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="ESPN1 SUR"
 http://134.19.182.131:8080/vdg13.m3u8?h=1ab5f35cd62f7eefbf2ff57c1bb4f9a3?
 SBN*****************************************
 http://195.181.163.39/DEP_ESPN_ARG/index.m3u8
-#EXTINF:-1,Espn2-sur-arg
+#EXTINF:-1, player-buffer="30" Espn2-sur-arg
 http://195.181.163.39/DEP_ESPN_2_ARG/index.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
 1280*720
 espn extra-latino
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPNEXTRA/hls/index.m3u8
-#EXTINF:-1,Espn3-sur-arg
+#EXTINF:-1, player-buffer="30" Espn3-sur-arg
 http://195.181.163.39/DEP_ESPN_3_ARG/index.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8
 1280*720
-#EXTINF:-1,Fox Sports MX
+#EXTINF:-1, player-buffer="30" Fox Sports MX
 http://balancer1.iptvmx.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 1280*720
-#EXTINF:-1,Fox Sports MX 2
+#EXTINF:-1, player-buffer="30" Fox Sports MX 2
 http://balancer1.iptvmx.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 1280*720
-#EXTINF:-1,Fox Sports MX 3
+#EXTINF:-1, player-buffer="30" Fox Sports MX 3
 http://balancer1.iptvmx.com:8081/tecno/FoxSports3.BKR/chunks.m3u8
 1280*720
-#EXTINF:-1,Fox Sports-arg
+#EXTINF:-1, player-buffer="30" Fox Sports-arg
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
 varias calidades
 http://195.181.163.39/DEP_FOX_SPORTS_ARG/index.m3u8
 1280*720
-#EXTINF:-1,Fox Sports 2-arg
+#EXTINF:-1, player-buffer="30" Fox Sports 2-arg
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8
 http://195.181.163.39/DEP_FOX_SPORTS_2_ARG/index.m3u8
 960*540
-#EXTINF:-1,Fox Sports 3-arg
+#EXTINF:-1, player-buffer="30" Fox Sports 3-arg
 https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8
 http://195.181.163.39/DEP_FOX_SPORTS_3_ARG/index.m3u8
 960*540
-#EXTINF:-1,TNT Sports-arg
+#EXTINF:-1, player-buffer="30" TNT Sports-arg
 http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
 http://195.181.163.39/CHI-CDF/index.m3u8?token=37241bf72dac16fb7a8bdf0cdad6f3c7
 960*540
-#EXTINF:-1,tvg-id="" tvg-name="WIN SPORTS +
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="WIN SPORTS +
 http://23.237.132.90:8081/live/win_sp_plus_eowhnre/playlist.m3u8
 win sports
 http://195.181.163.39/DEP_WIN_SPORTS/index.m3u8
-#EXTINF:-1,DirecTV Sportsecuador********************************************************************
+#EXTINF:-1, player-buffer="30" DirecTV Sportsecuador********************************************************************
 http://195.181.163.39/ECU-DIRECTTV_SP1/index.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 http://iptvhd.club:8443/televall2021/8_.m3u8?
 token=zA9LevBygNySqnXBr7VQbw&expires=1629839274 ===== 
 http://blackghost.live/play/futvall-833.php?id=directv&f=.m3u8
 1280*720
-#EXTINF:-1,DirecTV Sports 2-
+#EXTINF:-1, player-buffer="30" DirecTV Sports 2-
 ecuadro**********************************************************************
 http://195.181.163.39/ECU-DIRECTTV_SP2/index.m3u8
 1280*720
-#EXTINF:-1,tvg-id="" tvg-name="DIRECTV SPORTS PLUS
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="DIRECTV SPORTS PLUS
 http://195.181.163.39/DEP_DIRECTV_PLUS/index.m3u8
 http://23.237.132.90:8081/live/dt_sp_plus_ehwkth/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="BEIN SPORTS Ñ " tvg-logo="" group-title "DEPORTES"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="BEIN SPORTS Ñ " tvg-logo="" group-title "DEPORTES"
 http://138.0.229.88:8000/play/a02o/index.m3u8**************************************
 ****************
 http://23.237.132.90:8081/live/BEIN_HD/playlist.m3u8
@@ -91,19 +92,19 @@ http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8
 http://iptvhd.club:8443/televall2021/593_.m3u8?
 token=OSFAAxlOgilhIoxVWP8Xtw&expires=1629838733 =====
 http://blackghost.live/play/futvall-833.php?id=beines&f=.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="ECDF " tvg-logo="" group-title "DEPORTES"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="ECDF " tvg-logo="" group-title "DEPORTES"
 http://23.237.132.90:8081/live/el_canal_de_futbol/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="TUDN " tvg-logo="" group-title "DEPORTES"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="TUDN " tvg-logo="" group-title "DEPORTES"
 http://23.237.132.90:8081/live/tudn_ehgqnfqwe/playlist.m3u8
 https://futbollibre.net/en-vivo/tudn/embed.html
 http://iptvhd.club:8443/televall2021/167_.m3u8?
 token=mW2pNRd1OAfRrxLTTP0PKg&expires=1629841084 =============
 http://blackghost.live/play/futvall-833.php?id=tudn-mx&f=.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="VTV PLUS " tvg-logo="" group-title "DEPORTES"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="VTV PLUS " tvg-logo="" group-title "DEPORTES"
 http://23.237.132.90:8081/live/vtv_plus/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="VTV " tvg-logo="" group-title "DEPORTES"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="VTV " tvg-logo="" group-title "DEPORTES"
 http://23.237.132.90:8081/live/vtv/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="GOL PERU " tvg-logo="" group-title "DEPORTES"
+#EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="GOL PERU " tvg-logo="" group-title "DEPORTES"
 http://23.237.132.90:8081/live/gol_peru_sd/playlist.m3u8
 http://195.181.163.39:80/DEP_GOL_TV/index.m3u8
 tygo sports
@@ -111,143 +112,143 @@ https://playback2.akamaized.net/streams/28858495_9035716_lsirh8imuqbmng5tfr4_1/m
 er.m3u8?
 dw=80&hdnts=exp=1630449607~acl=/streams/28858495_9035716_lsirh8imuqbmng5tfr4_1/mast
 er.m3u8*~hmac=7b14a08c03c0a480863a41abbf9ae5cd4dbcfe7077ece3d14b121e42bc92e33a
-#EXTINF:-1, STARZ SUSPENSE
+#EXTINF:-1, player-buffer="30"  STARZ SUSPENSE
 http://23.237.132.90:8081/PREMIUM/stz_suspence/playlist.m3u8
-#EXTINF:-1, STARZ ENCORE
+#EXTINF:-1, player-buffer="30"  STARZ ENCORE
 http://23.237.132.90:8081/PREMIUM/stz_encore/playlist.m3u8
-#EXTINF:-1, STARZ
+#EXTINF:-1, player-buffer="30"  STARZ
 http://23.237.132.90:8081/PREMIUM/stz/playlist.m3u8
-#EXTINF:-1, STARZ EDGE
+#EXTINF:-1, player-buffer="30"  STARZ EDGE
 http://23.237.132.90:8081/PREMIUM/stz_edge/playlist.m3u8
-#EXTINF:-1, STAR COMEDY
+#EXTINF:-1, player-buffer="30"  STAR COMEDY
 http://23.237.132.90:8081/PREMIUM/STAR_COMEDY_TWO/playlist.m3u8
 http://balancer1.iptvmx.com:8081/tecno/FOXCOMEDY.TecnoByte/chunks.m3u8
-#EXTINF:-1, STAR CLASIC
+#EXTINF:-1, player-buffer="30"  STAR CLASIC
 http://23.237.132.90:8081/PREMIUM/STAR_CLASIC_TWO/playlist.m3u8
 1920*1080
-#EXTINF:-1,Star Channel
+#EXTINF:-1, player-buffer="30" Star Channel
 http://cdn.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 varias calidades
 http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_CHENNEL_TWO/playlist.m3u8
 1920*1080
 http://195.181.163.39/LAT_Fox_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Star Action
+#EXTINF:-1, player-buffer="30" Star Action
 https://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
 varias calidades
 http://23.237.132.90:8081/PREMIUM/STAR_ACTION_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,Star Life
+#EXTINF:-1, player-buffer="30" Star Life
 http://23.237.132.90:8081/ENTRETENIMIENTO/STAR_LIFE_TWO/playlist.m3u8
 1920*1080
 http://195.181.163.39/LAT_Fox_Life_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Star Fun
+#EXTINF:-1, player-buffer="30" Star Fun
 http://23.237.132.90:8081/PREMIUM/STAR_FUN_TWO/playlist.m3u8
 1920*720
 http://balancer1.iptvmx.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,Star Series
+#EXTINF:-1, player-buffer="30" Star Series
 http://23.237.132.90:8081/PREMIUM/STAR_SERIES_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1, HBO EXTREME
+#EXTINF:-1, player-buffer="30"  HBO EXTREME
 http://23.237.132.90:8081/PREMIUM/HBO_XTREME_TWO/playlist.m3u8
 1920*1080
-#EXTINF:-1, HBO MUNDI
+#EXTINF:-1, player-buffer="30"  HBO MUNDI
 http://23.237.132.90:8081/PREMIUM/HBO_MUNDI_TWO/playlist.m3u8
 544*306
-#EXTINF:-1,HBO
+#EXTINF:-1, player-buffer="30" HBO
 http://23.237.132.90:8081/PREMIUM/HBO_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,HBO 2
+#EXTINF:-1, player-buffer="30" HBO 2
 http://23.237.132.90:8081/PREMIUM/HBO2_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,HBO Plus
+#EXTINF:-1, player-buffer="30" HBO Plus
 http://23.237.132.90:8081/PREMIUM/HBO_PLUS_TWO/playlist.m3u8
 1200*720
 http://balancer1.iptvmx.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,HBO Signature
+#EXTINF:-1, player-buffer="30" HBO Signature
 http://23.237.132.90:8081/PREMIUM/HBO_SIGNATURE_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,HBO Family
+#EXTINF:-1, player-buffer="30" HBO Family
 http://23.237.132.90:8081/PREMIUM/HBO_FAMILY_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,HBO Pop
+#EXTINF:-1, player-buffer="30" HBO Pop
 http://23.237.132.90:8081/PREMIUM/HBO_POP_TWO/playlist.m3u8
 1280*720
 http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,Space
+#EXTINF:-1, player-buffer="30" Space
 http://cdn.stg.cvattv.com.ar/live/live2/Space/SA_Live_fta/index.m3u8
 varias calidades
 http://195.181.163.39/LAT_Space_HD/index.m3u8
 1280*1080
-#EXTINF:-1,TNT
+#EXTINF:-1, player-buffer="30" TNT
 http://cdn.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/index.m3u8
 varias calidades
 http://195.181.163.39/LAT_TNT_HD/index.m3u8
 1920*1080
-#EXTINF:-1,TNT Series
+#EXTINF:-1, player-buffer="30" TNT Series
 http://195.181.163.39/LAT_TNT_Series_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Cinecanal
+#EXTINF:-1, player-buffer="30" Cinecanal
 http://cdn.stg.cvattv.com.ar/live/live2/CinecanalHD/SA_Live_fta/index.m3u8
 1920*1080
 http://23.237.132.90:8081/PREMIUM/CINECANAL1_TWO/playlist.m3u8
 640*480
 http://195.181.163.39/LAT_Cinecanal_HD/index.m3u8
 1920*1080
-#EXTINF:-1, CINEMAX
+#EXTINF:-1, player-buffer="30"  CINEMAX
 http://23.237.132.90:8081/ENTRETENIMIENTO/CINEMAX_TWO/playlist.m3u8
 1920*1080
-#EXTINF:-1,Golden Edge
+#EXTINF:-1, player-buffer="30" Golden Edge
 https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/index.m3u8
 1280*720
-#EXTINF:-1,Golden Plus
+#EXTINF:-1, player-buffer="30" Golden Plus
 http://balancer1.iptvmx.com:8081/tecno/GoldenPlus.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Golden Premier
+#EXTINF:-1, player-buffer="30" Golden Premier
 http://balancer1.iptvmx.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
 1280*720
-#EXTINF:-1,Golden
+#EXTINF:-1, player-buffer="30" Golden
 https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1, PARAMOUNT
+#EXTINF:-1, player-buffer="30"  PARAMOUNT
 http://23.237.132.90:8081/PREMIUM/PARAMOUNT_TWO/playlist.m3u8
-#EXTINF:-1,Azteca 7
+#EXTINF:-1, player-buffer="30" Azteca 7
 http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Azteca Corazon
+#EXTINF:-1, player-buffer="30" Azteca Corazon
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,Azteca Clic
+#EXTINF:-1, player-buffer="30" Azteca Clic
 https://qlobbidev.s.llnwi.net/bpk-tv/AZLIC/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,Azteca Cinema
+#EXTINF:-1, player-buffer="30" Azteca Cinema
 https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,Azteca Mundo
+#EXTINF:-1, player-buffer="30" Azteca Mundo
 https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,De Película
+#EXTINF:-1, player-buffer="30" De Película
 https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/index.m3u8
 640*480
 1280*720
@@ -278,62 +279,62 @@ terminate=false&deviceId=1f6f4d73-d90a-4870-9068-
 331-f1bc-461f-87d1-3fc99ef6b364&advertisingId=&deviceLat=25.7633&deviceLon=-
 100.2784&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSid
 eAds=true&architecture=&paln=&includeExtendedEvents=false
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1, player-buffer="30" Las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,Disney XD
+#EXTINF:-1, player-buffer="30" Disney XD
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,Disney Channel
+#EXTINF:-1, player-buffer="30" Disney Channel
 http://cdn.stg.cvattv.com.ar/live/live2/DisneyChannelHD/SA_Live_fta/index.m3u8
 varias caldidades
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
 1280*720
-#EXTINF:-1,Disney Junior
+#EXTINF:-1, player-buffer="30" Disney Junior
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,National Geographic
+#EXTINF:-1, player-buffer="30" National Geographic
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1, player-buffer="30" Nat Geo Wild
 https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOWILD/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,NatGeo HD
+#EXTINF:-1, player-buffer="30" NatGeo HD
 http://cdn.stg.cvattv.com.ar/live/live2/NatGeoHD/SA_Live_fta/index.m3u8
 varias calidades
-#EXTINF:-1,Distrito Comedia
+#EXTINF:-1, player-buffer="30" Distrito Comedia
 https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,Venus
+#EXTINF:-1, player-buffer="30" Venus
 https://qlobbidev.s.llnwi.net/bpk-tv/VENUS/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,AMC
+#EXTINF:-1, player-buffer="30" AMC
 https://qlobbidev.s.llnwi.net/bpk-tv/AMC/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,Canal RCN
+#EXTINF:-1, player-buffer="30" Canal RCN
 https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
 640*480
 1280*720
-#EXTINF:-1,FX
+#EXTINF:-1, player-buffer="30" FX
 https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,Europa Europa
+#EXTINF:-1, player-buffer="30" Europa Europa
 https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 640*480
-#EXTINF:-1,DHE
+#EXTINF:-1, player-buffer="30" DHE
 https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 640*480
 720*480
-#EXTINF:-1,History HD
+#EXTINF:-1, player-buffer="30" History HD
 http://cdn.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/index.m3u8
 http://iptvhd.club:8443/televall2021/167_.m3u8?token=GnwxAy2ppgg4u7-
 orMYHLA&expires=1630375473
@@ -344,72 +345,72 @@ token=cMBtemJ6ORDoEmwT5OeEAg&expires=1630374617
 http://iptvhd.club:8443/televall2021/751_.m3u8?
 token=XKSjfukn5FdRrgpqQk38OQ&expires=1630375419
 varias calidades
-#EXTINF:-1,Discovery HD
+#EXTINF:-1, player-buffer="30" Discovery HD
 http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHD/SA_Live_fta/index.m3u8
 varias claidades
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1, player-buffer="30" Discovery H&H HD
 http://edge1.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m
 3u8
 http://cdn.stg.cvattv.com.ar/live/live2/DiscoveryHomeHealthHD/SA_Live_fta/index.m3u
 8
 varias calidades
-#EXTINF:-1,MTV
+#EXTINF:-1, player-buffer="30" MTV
 http://195.181.163.39/LAT_MTV_HD/index.m3u8
 1920*1080
-#EXTINF:-1,TLC
+#EXTINF:-1, player-buffer="30" TLC
 http://195.181.163.39/LAT_TLC_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Boomerang
+#EXTINF:-1, player-buffer="30" Boomerang
 http://195.181.163.39/LAT_Boomerang_HD/index.m3u8
 1920*1080
-#EXTINF:-1,ADN 40 mx
+#EXTINF:-1, player-buffer="30" ADN 40 mx
 http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,A&E
+#EXTINF:-1, player-buffer="30" A&E
 http://cdn.stg.cvattv.com.ar/live/live2/AEHD/SA_Live/index.m3u8
 1920*1080
 http://195.181.163.39/LAT_A&E_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Lifetime
+#EXTINF:-1, player-buffer="30" Lifetime
 http://195.181.163.39/LAT_Lifetime_HD/index.m3u8
 1920*1080
-#EXTINF:-1,Telemundo
+#EXTINF:-1, player-buffer="30" Telemundo
 http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Studio Universal
+#EXTINF:-1, player-buffer="30" Studio Universal
 http://balancer1.iptvmx.com:8081/tecno/StudioUniversal.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,canal5
+#EXTINF:-1, player-buffer="30" canal5
 http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Nick
+#EXTINF:-1, player-buffer="30" Nick
 http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Telefé
+#EXTINF:-1, player-buffer="30" Telefé
 http://balancer1.iptvmx.com:8081/tecno/Telefe.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Antena 3
+#EXTINF:-1, player-buffer="30" Antena 3
 http://balancer1.iptvmx.com:8081/tecno/Antena3.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Gala TV
+#EXTINF:-1, player-buffer="30" Gala TV
 http://balancer1.iptvmx.com:8081/tecno/GalaTV.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,Canal Once-mx noticias
+#EXTINF:-1, player-buffer="30" Canal Once-mx noticias
 http://balancer1.iptvmx.com:8081/tecno/Canal11.TecnoByte/chunks.m3u8
 1280*720
-#EXTINF:-1,DeporTV HD
+#EXTINF:-1, player-buffer="30" DeporTV HD
 http://cdn.stg.cvattv.com.ar/live/live2/DeporTVHD/SA_Live_fta/index.m3u8
 3 calidades
-#EXTINF:-1,Trece HD
+#EXTINF:-1, player-buffer="30" Trece HD
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/index.m3u8
 1920*1080
-#EXTINF:-1,Telefe HD
+#EXTINF:-1, player-buffer="30" Telefe HD
 http://cdn.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
 varias calidades
-#EXTINF:-1,Todo Noticias HD
+#EXTINF:-1, player-buffer="30" Todo Noticias HD
 http://cdn.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
 varias calidades
-#EXTINF:-1,Canal 9
+#EXTINF:-1, player-buffer="30" Canal 9
 http://cdn.stg.cvattv.com.ar/live/live2/Canal9/SA_Live_fta/index.m3u8
 varias calidades
 
