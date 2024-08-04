@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1, player-buffer="30" TELEFE 1
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CvYE45sygHjHzJNQ0xWWcsjuVX_GRwYClUqU4wuSaC6RuBmX9qyvbfEkHtD9XsUfDAO2ZVegD_y2nBEczBaB8mWZFCMAeILarRo2rxnMpGsWhCXdJbq-uu6Rm6e8zrim_IMGBG0O74BqBhYeeCpNNlbPis3fCQy4Q6XVOMp7TfCRB1hKPgAy65HZmmobnez4oncFxqdjuF_Xp8NZE9U8kwnluAkJ8BNaxZ7gNAIPRAiObPdhEYv3Rrk_PCWGU64KwZmFfX29ZigDnQvFD8Q_VQVYYmd9aCbSwLBxwfvJkVV0JilQhvIL-KOLXv9jcM-aLNH9qQXupd4hMN2DaLsfRLTdi2YT0ki2slM-wIE3JV47NzJSxH5zBDDG6_-7VPKdCnesa126I7eOB8uTVpMGFXp8fH-d2xhtgR3DCMke8mK5voaAejwuzTzLZnu2XY0Hfdod-P8sxPQ6A8SFeCUtxynR8HuWQnLYqfnHapJE9Iryr7BgcIaWifxEdBBJop3Cb6ITdXkmXC5147xb4i3AW_WrnX5lRBRnet2uofrWMmvbkJpMLBAK4rvmj9l635awUGgBUAG_Qk9WsRqG7ELnHxp7DJy0RKL16rs3ueCcQ2dvzgWrxw5zN-vnAdwUQ2O01ENHgiSvoZvehnw2c_o8YBF6f-LMnavUv74oWZoFzsC76Uxc-iuPK9AeDlWdX0pNCUqLhofc0Cv6ItLwTbM0xyjRZOa-qRVuTzVcxwACSnL71iKevQ_XHvNB7cbnezJ5RLs4cyoPeXZ60s6MZkxPcAjH63aQ1dHGDnBdwHMT7Zdq6Xi49ALV6v5u2fMmnxOWPUysTAmc_j2aGgxuiZawKXP_VWoG2t4gASoJZXUtd2VzdC0yMJ0F.m3u8
+
+#EXTINF:-1, player-buffer="30" TELEFE 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1, player-buffer="30"  COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1, player-buffer="30"  CTV SAN LUIS
+https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w657729093.m3u8
+
+#EXTINF:-1, player-buffer="30"  MULTIVISION TV
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1, player-buffer="30"  VORTERIX
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live
+
+#EXTINF:-1, player-buffer="30"  CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1, player-buffer="30"  TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1, player-buffer="30"  MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1, player-buffer="30"  TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1, player-buffer="30"  TyC Sports 2
+http://186.33.168.33:8000/play/a04y
+
+#EXTINF:-1, player-buffer="30"  FOX SPORTS
+http://186.33.168.33:8000/play/a052
+
+#EXTINF:-1, player-buffer="30"  FOX SPORTS 2
+http://186.33.168.33:8000/play/a04z
+
+#EXTINF:-1, player-buffer="30"  FOX SPORTS 3
+http://186.33.168.33:8000/play/a050
+
+#EXTINF:-1, player-buffer="30"  ESPN
+http://186.33.168.33:8000/play/a04w
+
+#EXTINF:-1, player-buffer="30"  group-title="Ar", Ar
+https://iptv-org.github.io/iptv/countries/ar.m3u
+
+#EXTINF:-1, player-buffer="30"  group-title="Mas Canales", Mas Canales
+https://pastebin.com/raw/JNTSczWg
+
+#EXTINF:-1, player-buffer="30"  group-title="Otros", Otros
+https://iptv-org.github.io/iptv/categories/xxx.m3u
+
+
