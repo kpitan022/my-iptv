@@ -1,3 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 player-buffer="30",TyC Sports HD ARG
 http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
+#EXTINF:-1 player-buffer="30",TyC Sports Internacional HD ARG
+https://conmx11.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=5058181f27404307d0a922cbbeb833aa9835ab7a-51-1722895698-1722859698
+
+# #EXTINF:-1, player-buffer="30" tvg-id="" tvg-name="TyCSportsARG" tvg-logo="" group-title="Argentina",TyC Sports HD ARG
+# http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
+# https://n1.dramaticreadings.com:999/hls/tycsd-95169.ts
+# https://n1.dramaticreadings.com:999/hls/tycsd.m3u8?md5=zVE5CZzmNgRCxSDUQFO8sQ&expires=1722794026
+# https://n3.dramaticreadings.com:999/hls/tycsd.m3u8?md5=h-v0RTYb8XsuUsOfy2WeKQ&expires=1722794414
+# https://n3.dramaticreadings.com:999/hls/tycsd-18700.ts
