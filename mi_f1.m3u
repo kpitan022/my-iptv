@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/320px-Disney%2B_2024.svg.png" group-title="EVENTOS 24/7",DISNEY PLUS +
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/320px-Disney%2B_2024.svg.png" group-title="EVENTOS 24/7",DISNEY PLUS +
 http://directo.ddns.me:2082/felipenarcelles/felipe7388/76849
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="" group-title="DEPORTES",DAZN F1
 http://directo.ddns.me:2082/felipenarcelles/felipe7388/81519
@@ -7,15 +7,15 @@ http://directo.ddns.me:2082/felipenarcelles/felipe7388/81519
 http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/2553
 #EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:ESPN DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES Deportes",ES067:ESPN DEPORTES
 http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/2537
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-deportes-us.png" group-title="USA Sports",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-deportes-us.png" group-title="DEPORTES",ESPN Deportes
 http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/47478
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title="Argentina",ARG: FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title="Deportes",ARG: FOX SPORTS PREMIUM
 http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/122353
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Formula 1 FHD" tvg-logo="" group-title="Spanish",ES: Movistar Formula 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Formula 1 FHD" tvg-logo="" group-title="ES Deportes",ES: Movistar Formula 1 FHD
 http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/67372
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="Formula 1 HD" tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="DEPORTES",Formula 1 HD
+#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="DAZN Formula 1 HD" tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="ES DEPORTES",Formula 1 HD
 http://directo.ddns.me:2082/felipenarcelles/felipe7388/38487
-#EXTINF:-1 tvg-id="" tvg-name="SK-Y FORMULA 1" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="DEPORTES",SK-Y FORMULA 1
+#EXTINF:-1 tvg-id="" tvg-name="SK-Y FORMULA 1" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="EN SPORTS",SK-Y FORMULA 1
 http://directo.ddns.me:2082/felipenarcelles/felipe7388/57308
 #EXTINF:-1 tvg-id="" tvg-name="F1 TV |  Race Feed" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",F1 TV |  Race Feed
 http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123018
