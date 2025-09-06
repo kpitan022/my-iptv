@@ -1,67 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PLUS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/320px-Disney%2B_2024.svg.png" group-title="EVENTOS 24/7",DISNEY PLUS +
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/76849
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/DAZN_F1_logo.svg" group-title="ES DEPORTES",DAZN F1
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/81519
-#EXTINF:-1 tvg-id="laliga.es" tvg-name="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/DAZN_F1_logo.svg" group-title="ES DEPORTES",ES051:DAZN F1
-http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/2553
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES067:ESPN DEPORTES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES067TCMES.png" group-title="ES DEPORTES",ES067:ESPN DEPORTES
-http://mmesk241018a.wanicelife.com:8880/D12m3783/75587387/2537
-#EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-deportes-us.png" group-title="DEPORTES",ESPN Deportes
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/47478
-#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes",ARG: FOX SPORTS PREMIUM
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/122353
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Formula 1 FHD" tvg-logo="" group-title="ES DEPORTES",Movistar Formula 1 FHD
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/67372
-#EXTINF:-1 tvg-id="I1.91203.schedulesdirect.org" tvg-name="DAZN Formula 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/DAZN_F1_logo.svg" group-title="ES DEPORTES",Formula 1 HD 
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/38487
-#EXTINF:-1 tvg-id="" tvg-name="SK-Y FORMULA 1" tvg-logo="https://m.media-amazon.com/images/I/514+unLCgEL.png" group-title="EN SPORTS",SK-Y FORMULA 1
-http://directo.ddns.me:2082/felipenarcelles/felipe7388/57308
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV |  Race Feed" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",F1 TV |  Race Feed
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123018
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV | Race Data Feed" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",F1 TV | Race Data Feed
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123019
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV | UHD Feed" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",F1 TV | UHD Feed
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123020
-#EXTINF:-1 tvg-id="" tvg-name="F1 TV | Race Tracker Feed" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",F1 TV | Race Tracker Feed
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123021
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Gasly [Alpine]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Gasly [Alpine]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123022
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Colapinto [Alpine]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Colapinto [Alpine]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123023
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Alonso [Aston Martin]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Alonso [Aston Martin]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123024
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Stroll [Aston Martin]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Stroll [Aston Martin]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123025
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Leclerc [Ferrari]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Leclerc [Ferrari]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123026
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Hamilton [Ferrari]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Hamilton [Ferrari]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123027
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Bearman [Haas]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Bearman [Haas]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123028
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Ocon [Haas]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Ocon [Haas]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123029
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Piastri [McLaren]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Piastri [McLaren]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123030
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Norris [McLaren]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Norris [McLaren]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123031
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Russell [Mercedes]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Russell [Mercedes]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123032
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Antonelli [Mercedes]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Antonelli [Mercedes]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123033
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Tsunoda [RB]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Tsunoda [RB]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123034
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Hadjar [RB]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Hadjar [RB]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123035
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Verstappen [Red Bull]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Verstappen [Red Bull]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123036
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Lawson [Red Bull]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Lawson [Red Bull]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123037
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Hulkenberg [Sauber]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Hulkenberg [Sauber]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123038
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Bortoleto [Sauber]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Bortoleto [Sauber]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123039
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Albon [Williams]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Albon [Williams]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123040
-#EXTINF:-1 tvg-id="" tvg-name="Driver | Sainz [Williams]" tvg-logo="" group-title="F-1 (LIVE FOR EVENTS ONLY)",Driver | Sainz [Williams]
-http://lunar.pm:8080/GeraldFrett/UYNDFT8jQqW2/123041
+#EXTINF:-1,DAZN F1 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
+#EXTINF:-1,TUDN FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
+#EXTINF:-1,GOL PERU FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
+#EXTINF:-1,TNT SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
+#EXTINF:-1,ESPN PREMIUM AR FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
+#EXTINF:-1,TYC SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=3&f=.ts
+#EXTINF:-1,FOX SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+#EXTINF:-1,FOX SPORTS 2 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+#EXTINF:-1,FOX SPORTS 3 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+#EXTINF:-1,ESPN FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
+#EXTINF:-1,ESPN 2 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
+#EXTINF:-1,ESPN 3 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
+#EXTINF:-1,DIRECTV SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
+#EXTINF:-1,DIRECTV SPORTS 2 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
+#EXTINF:-1,DIRECTV SPORTS PLUS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
+#EXTINF:-1,DIRECTV SPORTS FIGHT FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=81&f=.ts
+#EXTINF:-1,FOX SPORTS MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
+#EXTINF:-1,FOX SPORTS 2 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
+#EXTINF:-1,FOX SPORTS 3 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
+#EXTINF:-1,ESPN MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
+#EXTINF:-1,ESPN 2 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
+#EXTINF:-1,ESPN 3 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
+#EXTINF:-1,LIGA 1 MAX FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
+#EXTINF:-1,ESPN 4 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1,FOX SPORTS PREMIUM FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
+#EXTINF:-1,ESPN 5 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
+#EXTINF:-1,ESPN 6 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=67&f=.ts
+#EXTINF:-1,ESPN 7 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=68&f=.ts
+#EXTINF:-1,DAZN LA LIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1,MOVISTAR L. CAMPEONES FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
+#EXTINF:-1,WIN SPORTS PLUS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
+#EXTINF:-1,BEIN SPORTS XTRA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1,WIN SPORTS FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
+#EXTINF:-1,TNT SPORTS CHILE FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
+#EXTINF:-1,ESPN ARGENTINA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1,ESPN PREMIUM ARGENTINA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1,LIGA 1 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
+#EXTINF:-1,ESPN 4 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
+#EXTINF:-1,ESPN 5 MEXICO FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
+#EXTINF:-1,AZTECA DEPORTES FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
+#EXTINF:-1,SKY SPORTS BUNDESLIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
+#EXTINF:-1,SKY SPORTS LA LIGA FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
+#EXTINF:-1,MOVISTAR DEPORTES PE FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=80&f=.ts
